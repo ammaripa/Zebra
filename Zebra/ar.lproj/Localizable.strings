@@ -209,7 +209,7 @@
 // Console
 
 "Console" = "وحدة التحكم";
-"Performing Actions..." = "Performing Actions...";
+"Performing Actions..." = "جارِ تنفيذ التغيرات...";
 "Updating icon cache asynchronously..." = "جارِ تحديث ذاكرة التخزين المؤقتة للأيقونة بشكل غير متزامن ...";
 "This may take awhile and Zebra may crash. It is okay if it does." = "هذا قد يستغرق بعض الوقت و Zebra قد يخرج بشكل مفاجئ. لا بأس إذا حدث ذلك.";
 "Close Zebra" = "إغلاق Zebra";
@@ -250,8 +250,8 @@
 "Continue" = "استمرار";
 "Download Size" = "حجم التنزيل";
 "Confirm" = "تأكيد";
-"%@ must be removed because it depends on %@" = "%@ must be removed because it depends on %@";
-"Required Package" = "Required Package";
-"%@ is required by:" = "%@ is required by:";
-"Issues" = "Issues";
-"%@ has issues that cannot be resolved:" = "%@ has issues that cannot be resolved:";
+"%@ must be removed because it depends on %@" = "%@ يجب ان يتم حذفه لأنه يعتمد على %@";
+"Required Package" = "حزمة مطلوبة";
+"%@ is required by:" = "%@ مطلوب من قبل:";
+"Issues" = "مشاكل";
+"%@ has issues that cannot be resolved:" = "%@ يمتلك مشاكل لا يمكن حلها:";
